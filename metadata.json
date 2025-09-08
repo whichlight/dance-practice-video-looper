@@ -1,0 +1,5 @@
+{
+  "name": "Dance Practice Video Looper",
+  "description": "An advanced video player for dancers to loop specific sections of a video, adjust playback speed, and practice choreography with precision. Upload a video to start your practice session.",
+  "requestFramePermissions": []
+}
